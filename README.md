@@ -1,12 +1,12 @@
 
 <h1 align="center">
-    ❤BANG BADRU❤
+    ❤BANG HACKER❤
 </h1>
 <h4 align="center">
-  Jangan Lupa Istigfar
+  JANGAN LUPA BAGI BAGI
 
 
-<img src="https://github.com/Bangbadruyt/hackfb/blob/main/IMG_20201228_195926.jpg" />
+<img src="https://github.com/indah113/hackfbv1.2/blob/main/FB_IMG_1619432172246494.jpg" />
 
 ### Fitures
 ```
@@ -16,17 +16,18 @@
 - Ambil ID
 
 
-- Mutli type login use token
+- Mutli type login use id Fb
 
 ```
 ### Install
 ```
 pkg update && pkg upgrade
-pkg install python2
+pkg install python
+Pkg install -y
 pkg install git
 pip2 install requests
 pip2 install mechanize
-git clone https://github.com/Bangbadruyt/hackfb
+git clone https://github.com/indah113/hackfbv1.2
 ```
 ### Run this script
 ```
@@ -35,7 +36,5 @@ ls
 python2 hackfb.py
 ```
 ### MY SOCIAL MEDIA
-* [<img alt="badru Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Bangbadruyt/)<br />
-* [<img alt="badru Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://www.facebook.com/Bb.yt23)<br />
-* [<img alt="badru Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/628811403654?text=Asalamualaikum+Ganteng)<br />
-* [<img alt="badru YouTube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>YouTube</b>](https://www.youtube.com/channel/UCc3ktJXzCcNfEo8q5t2lVAg)<br />
+* [<img alt="hack Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Bangbadruyt/)<br />
+* [<img alt="hack Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://www.facebook.com/Bb.yt23)<br />
